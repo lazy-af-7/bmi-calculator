@@ -4,6 +4,19 @@ const headingTextStyle = TextStyle(
   fontSize: 50,
   fontWeight: FontWeight.w900,
 );
+const resultTextStyle = TextStyle(
+  color: Color(0xFF24D876),
+  fontSize: 22,
+  fontWeight: FontWeight.bold,
+);
+
+const bmiTextStyle = TextStyle(
+  fontSize: 100,
+  fontWeight: FontWeight.bold,
+);
+const bodyTextStyle = TextStyle(
+  fontSize: 22,
+);
 
 const labelTextStyle = TextStyle(
   fontSize: 18,
